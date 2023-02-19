@@ -1,0 +1,7 @@
+#ifndef IHW_SORTING_LGORITHMS_TESTING_QUICK_SORT_H
+#define IHW_SORTING_LGORITHMS_TESTING_QUICK_SORT_H
+#include "vector"
+
+void quickSort(std::vector<int>& arr);
+
+#endif  // IHW_SORTING_LGORITHMS_TESTING_QUICK_SORT_H
