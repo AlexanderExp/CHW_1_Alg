@@ -70,3 +70,23 @@
 
 <img width="475" alt="image" src="https://user-images.githubusercontent.com/95678672/219963070-b48cf2b4-efe2-4dec-a909-fe80703dc1a3.png"> <img width="730" alt="image" src="https://user-images.githubusercontent.com/95678672/219963085-075d5e06-21df-496a-9e47-800db41b1b52.png">
 
+Оптимизация сортировки пузырьком двумя условиями еще лучше влияет на скорость сортировки массива. Видим общее улучшение времени сортировок.
+
+4) Counting Sort
+
+<img width="474" alt="image" src="https://user-images.githubusercontent.com/95678672/219963308-9e43b5d8-7a41-48c1-aec3-2e94618345fe.png"> <img width="724" alt="image" src="https://user-images.githubusercontent.com/95678672/219963318-dce1aa56-4dc1-4fe7-95b1-68abe7b91c71.png">
+
+
+5) Selection Sort
+
+<img width="474" alt="image" src="https://user-images.githubusercontent.com/95678672/219963338-f859f1b6-e68f-4e78-8a1a-944088ec4892.png"> <img width="809" alt="image" src="https://user-images.githubusercontent.com/95678672/219963345-39175bfa-9cfe-49d0-9c1b-13d0e4617e0c.png">
+
+
+6) Radix Sort
+
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/95678672/219963364-2ef651ed-c6e1-42cd-af92-c8bfdc138a06.png"> <img width="886" alt="image" src="https://user-images.githubusercontent.com/95678672/219963371-42a88404-59bd-40ee-b39b-eb2f3052ca2e.png">
+
+7) Heap Sort
+
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/95678672/219963384-002c34e0-eaf4-4e0f-92b6-2083928769d7.png"> <img width="994" alt="image" src="https://user-images.githubusercontent.com/95678672/219963399-a1946073-179f-45cb-938d-a79b042e3e29.png">
+
