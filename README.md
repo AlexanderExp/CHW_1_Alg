@@ -48,7 +48,16 @@
 Теперь перейдем непосредственно к замерам:
 1) Bubble Sort
 
-<img width="469" alt="image" src="https://user-images.githubusercontent.com/95678672/219962683-f553e816-f357-4aa4-8fd2-17078f208bb8.png"> <img width="470" alt="image" src="https://user-images.githubusercontent.com/95678672/219962690-b94fdd9c-7449-4119-978a-78f314e94a30.png"> <img width="471" alt="image" src="https://user-images.githubusercontent.com/95678672/219962692-493e4956-3eb8-498e-9fe6-4ed7fda14f46.png">
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/95678672/219962683-f553e816-f357-4aa4-8fd2-17078f208bb8.png"> <img width="633" alt="image" src="https://user-images.githubusercontent.com/95678672/219962720-e8ffa305-db81-4768-ad3b-c642eb87c2cf.png">
+
+Видим, что на почти отсортированном массиве эта сортировка работает быстрее, чем на рандомных массивах. В остальном, 
+• Асимптотическая сложность - 𝑂(𝑛!)
+• Время работы в худшем и среднем случае - 𝑂 𝑛!
+• Дополнительная память - 𝑂(1)
+
+2) Bubble Sort, оптимизированный первым условием Айверсона
+<img width="474" alt="image" src="https://user-images.githubusercontent.com/95678672/219962864-09418f7a-b857-41e2-945d-80f5f6362a94.png"> <img width="682" alt="image" src="https://user-images.githubusercontent.com/95678672/219962854-22170f38-f90f-45fd-9750-2a3fe869e9a3.png">
+
 
 
 
