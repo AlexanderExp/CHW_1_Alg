@@ -45,3 +45,10 @@
 Такие скачки встречаются периодически. Они могут быть вызваны совершенно разными процессами. Компьютер чтчо-то решил сделать без нашего ведома => загрузил процессор => возник перепад.
 
 
+Теперь перейдем непосредственно к замерам:
+1) Bubble Sort
+
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/95678672/219962683-f553e816-f357-4aa4-8fd2-17078f208bb8.png"> <img width="470" alt="image" src="https://user-images.githubusercontent.com/95678672/219962690-b94fdd9c-7449-4119-978a-78f314e94a30.png"> <img width="471" alt="image" src="https://user-images.githubusercontent.com/95678672/219962692-493e4956-3eb8-498e-9fe6-4ed7fda14f46.png">
+
+
+
