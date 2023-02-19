@@ -90,3 +90,28 @@
 
 <img width="472" alt="image" src="https://user-images.githubusercontent.com/95678672/219963384-002c34e0-eaf4-4e0f-92b6-2083928769d7.png"> <img width="994" alt="image" src="https://user-images.githubusercontent.com/95678672/219963399-a1946073-179f-45cb-938d-a79b042e3e29.png">
 
+8) Merge Sort
+
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/95678672/219963432-991f57d0-14f1-44de-99b8-c21887f87107.png"> <img width="993" alt="image" src="https://user-images.githubusercontent.com/95678672/219963442-c1e670d1-23a5-49cd-84c9-6f39e27eab2d.png">
+
+9) Quick Sort
+
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/95678672/219963474-80ecaf38-ebcf-47bc-a42c-ec08043c743d.png"> <img width="807" alt="image" src="https://user-images.githubusercontent.com/95678672/219963457-6f3c76bd-ab32-43c3-945a-7e3ab2f1acb0.png">
+
+10) Regular insertion Sort
+
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/95678672/219963532-ef18b1b5-d930-4a74-8392-396356947a40.png"> <img width="807" alt="image" src="https://user-images.githubusercontent.com/95678672/219963544-2624179c-813c-473e-9fe5-13598800802a.png">
+
+11) Binary insertion Sort
+
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/95678672/219963579-3f5fbb77-a975-4610-a2c6-2025a31f9638.png"> <img width="807" alt="image" src="https://user-images.githubusercontent.com/95678672/219963572-b151e9f4-ad29-46a6-ab82-014329f3f88e.png">
+
+12) Shell Sort on Shell Sequence
+
+<img width="475" alt="image" src="https://user-images.githubusercontent.com/95678672/219963608-d0f746b4-c097-49c4-999e-b3b4eb69397f.png"> <img width="807" alt="image" src="https://user-images.githubusercontent.com/95678672/219963658-9af8b869-50fc-4e64-b8a9-62aa17529962.png">
+
+
+13) Shell Sort on Ciura Sequence
+
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/95678672/219963626-438a5b74-0357-4cea-9e0a-9662b2fca147.png"> <img width="807" alt="image" src="https://user-images.githubusercontent.com/95678672/219963646-4fdb825a-625d-4be6-9765-38f7c03321cb.png">
+
