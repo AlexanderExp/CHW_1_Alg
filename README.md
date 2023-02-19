@@ -124,3 +124,20 @@
 
 <img width="476" alt="image" src="https://user-images.githubusercontent.com/95678672/219963626-438a5b74-0357-4cea-9e0a-9662b2fca147.png"> <img width="807" alt="image" src="https://user-images.githubusercontent.com/95678672/219963646-4fdb825a-625d-4be6-9765-38f7c03321cb.png">
 
+Теперь, общий вывод:
+
+1) На массиве со случайными значениями от 0 до 5 картина следующая:
+
+<img width="1109" alt="image" src="https://user-images.githubusercontent.com/95678672/219965646-97f50b40-7a0c-40e4-9a56-bb92f411be6b.png">
+
+2) На массиве со случайными значениями от 0 до 4000 картина следующая:
+
+<img width="1109" alt="image" src="https://user-images.githubusercontent.com/95678672/219965657-26100877-6566-402f-8615-01da71590ad0.png">
+
+3) На почти отсортированном массиве:
+
+<img width="1109" alt="image" src="https://user-images.githubusercontent.com/95678672/219965675-c5c07f1f-2a8a-4621-bfab-3990d9b6a8c6.png">
+
+4) На массиве, отсортированном в убывающем порядке:
+
+<img width="1109" alt="image" src="https://user-images.githubusercontent.com/95678672/219965693-12601f24-5f49-44bc-9215-d850b6a4d684.png">
